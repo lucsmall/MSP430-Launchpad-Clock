@@ -1,0 +1,5 @@
+This is a clock based on the Texas Instruments MSP430 Lauchpad development board.
+
+Full details and schematics are available at http://lucsmall.com/
+
+The code is written and compiled in Code Composer Studio.
